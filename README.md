@@ -56,5 +56,12 @@ streamlit run app.py
   ```
 - If you encounter **database errors**, ensure ChromaDB is correctly set up and check file paths.
 
+🤝 Contributing
+Feel free to submit issues and pull requests. Let's build this together! 🚀
+
+
+📬 Contact
+For queries or collaborations, reach out via rizzwanm94@gmail.com
+
 Happy Coding! 🚀
 ---
