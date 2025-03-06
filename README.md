@@ -35,7 +35,7 @@ pip install -r requirements.txt
 
 ### **4. Run Streamlit App**
 ```bash
-streamlit run streamlit_chatbot.py
+streamlit run app.py
 ```
 
 ---
