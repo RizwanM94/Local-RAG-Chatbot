@@ -1,0 +1,9 @@
+# Dependencies 📦 
+```
+streamlit
+pdfplumber
+chromadb
+langchain
+sentence-transformers
+ollama
+```
